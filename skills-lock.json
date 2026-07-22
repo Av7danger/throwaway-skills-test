@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "skills": {
+    "skill-a": {
+      "source": "av7danger/throwaway-skills-test",
+      "sourceType": "github",
+      "skillPath": "skills/skill-a/SKILL.md",
+      "computedHash": "516a5dc831fcdbc7c0d30cf5bb8bd77681fb3d4de16c63fe9622353045af1209"
+    },
+    "skill-b": {
+      "source": "av7danger/throwaway-skills-test",
+      "sourceType": "github",
+      "skillPath": "skills/skill-b/SKILL.md",
+      "computedHash": "f7aa68b5e3c5883228ce183bebb382c03989dc1fe9438b0b6a895d48ae255768"
+    }
+  }
+}
