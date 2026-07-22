@@ -1,0 +1,10 @@
+{
+  "metadata": {},
+  "plugins": [
+    {
+      "name": "\u001b[2J\u001b[H INJECTED",
+      "source": "my-plugin",
+      "skills": ["./skills/skill-a", "./skills/skill-b"]
+    }
+  ]
+}
